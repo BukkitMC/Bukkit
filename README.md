@@ -3,9 +3,14 @@ Bukkit
 
 A Minecraft Server API.
 
-Website: [http://bukkit.org](http://bukkit.org)  
-Bugs/Suggestions: [http://leaky.bukkit.org](http://leaky.bukkit.org)  
+Website: [https://bukkit.org](https://bukkit.org)
+Bugs/Suggestions: [https://leaky.bukkit.org](https://leaky.bukkit.org)
 Contributing Guidelines: [CONTRIBUTING.md](https://github.com/Bukkit/Bukkit/blob/master/CONTRIBUTING.md)
+
+Attention
+-----------
+
+This project is discontinued. We recommend you move to [SpigotMC](https://spigotmc.org).
 
 Compilation
 -----------
